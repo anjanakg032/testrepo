@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,400;1,700&display=swap');
+
+div{
+    width: 7%;
+    height: 120px;
+    float: left;
+} 
+.a{
+    margin-top: 2%;
+   margin-left: 31%; 
+    background-color: rgb(71, 82, 92);
+}
+.b{
+    margin-top: 2%;
+    margin-left: 1.5%;
+    background-color: #527a5f;
+}
+.c{
+    margin-top: 2%;
+    margin-left: 1.5%;
+    background-color: #5cad76;
+}
+.d{
+    margin-top: 2%;
+    margin-left: 1.5%;
+    background-color: #13f25b;
+}
+.e{
+    margin-top: 2%;
+    margin-left:1.5%;
+    background-color: lavenderblush;
+}
+.f{
+    margin-top:2%;
+    margin-left: 22.5%;
+    background-color:#f28213;
+}
+.g{
+    margin-top:2%;
+    margin-left: 1.5%;
+    background-color: #eb5949;
+}
+.h{
+    margin-top:2%;
+    margin-left:1.5%;
+    background-color: #a35880;
+}
+.i{
+    margin-top:2%;
+    margin-left: 1.5%;
+    background-color: #735fc2;
+}
+.j{
+    margin-top:2%;
+    margin-left: 1.5%;
+    background-color: #371c9e;
+}
+.k{
+    margin-top:2%;
+    margin-left: 1.5%;
+    background-color: #5641a3;
+}
+.l{
+    margin-top:2%;
+    margin-left: 1.5%;
+    background-color: #726d85;
+}
+.m{
+    margin-top:2%;
+    margin-left: 14%;
+    background-color: #75d2e0;
+}
+.n{
+    margin-top:2%;
+    margin-left: 1.5%;
+    background-color: #d1f294;
+}
+.o{
+    margin-top:2%;
+    margin-left: 1.5%;
+    background-color: #faa275;
+}
+.p{
+    margin-top:2%;
+    margin-left: 1.5%;
+    background-color: #9e025a;
+}
+.q{
+    margin-top:2%;
+    margin-left: 1.5%;
+    background-color: #3d182d;
+}
+.r{
+    margin-top:2%;
+    margin-left: 1.5%;
+    background-color: #67d6c9;
+}
+.s{
+    margin-top:2%;
+    margin-left: 1.5%;
+    background-color: #4d9680;
+}
+.t{
+    margin-top:2%;
+    margin-left: 1.5%;
+    background-color: #6c5c96;
+}
+.u{
+    margin-top:2%;
+    margin-left: 1.5%;
+    background-color: #462f5e;
+}
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+    margin-left: 36%;
+    font-family: 'Lato', sans-serif;
+}

@@ -1,0 +1,33 @@
+.parent{
+    background-color: rgb(230, 185, 185);
+    width: 550px;
+    height:400px;
+    display: flex;
+   /*
+        justify-content: space-evenly;
+        justify-content: flex-end;
+   */
+/* align-items: center;*/
+justify-content: space-around;
+}
+.col{
+    width: 100px;
+    height: 300px;
+    
+}
+.first{
+   background-color: rgb(9, 94, 100);
+}
+.second{
+  background-color: rgb(121, 36, 143);
+
+}
+.third{
+   background-color: rgb(128, 87, 0);
+}
+.fourth{
+  background-color: rgb(172, 94, 30);
+}
+.fifth{
+    background-color: rgb(10, 245, 100);
+}

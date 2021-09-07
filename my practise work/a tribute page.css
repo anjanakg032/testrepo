@@ -1,0 +1,29 @@
+.main{
+    background-color: rgb(241, 238, 238);
+    width: 1000px;
+    margin-left: 10%;
+    height: 960px;
+   /* align-items: center; not working
+   justify-content: flex-end; not working*/
+}
+.centre{
+    text-align: center;
+}
+.sub{
+    background-color: rgb(153, 142, 142);
+    width: 30%;
+   margin-left: 35%;
+    
+}
+ul{
+    justify-content: space-evenly;
+}
+.last{
+    margin-left: 10%;
+}
+.center{
+    margin-left: 35%;
+}
+img{
+    border-radius: 50%;
+}

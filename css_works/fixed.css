@@ -1,0 +1,12 @@
+body{
+    height: 1400px;
+}
+div{
+    border: 2px solid brown;
+    background-color: cornsilk;
+    width: 100px;
+    height: 100px;
+    position: sticky;
+    top: 10%;
+    left: 70%;
+}

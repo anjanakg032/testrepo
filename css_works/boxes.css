@@ -1,0 +1,58 @@
+.parent{
+    position: relative;
+    border: 1px solid rgb(207, 21, 21);
+    background-color: rgb(233, 15, 15);
+    width: 40%;
+    height:400px;
+    float: left;
+    justify-content: space-evenly;
+
+}
+.row{
+    position: relative;
+    margin-left: 50%;
+    border: 1px solid rgb(49, 21, 207);
+    background-color: rgb(73, 15, 233);
+    width: 40%;
+    height:400px;
+    justify-content: space-around;
+
+}
+.right{
+    position: relative;
+    border: 1px solid rgb(21, 207, 61);
+    background-color: rgb(15, 233, 233);
+    width: 40%;
+    height:400px;
+
+}
+.col{
+    width: 19.2%;
+    height: 397px;
+    border: 1px solid pink;
+}
+.first{
+    position: absolute;
+    background-color: purple;
+}
+.second{
+    position: absolute;
+    margin-left: 20.05%;
+    background-color: navy;
+
+}
+.third{
+    position: absolute;
+    margin-left: 40.1%;
+    background-color: rgb(128, 87, 0);
+}
+.fourth{
+    position: absolute;
+    margin-left: 60.2%;
+    background-color: rgb(245, 10, 245);
+}
+.fifth{
+    position: absolute;
+    margin-left: 80.4%;
+    background-color: rgb(10, 245, 100);
+}
