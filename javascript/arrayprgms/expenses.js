@@ -15,13 +15,40 @@ for (let amount of expenses){
          high_exp=amount//low_exp=12000
     }
 }
-console.log(high_expenses);
+console.log(high_exp);
 
+
+//find total
+var total_exp=0;
+for(let amount of expenses){
+    total_exp+=amount;
+}
+console.log(total_exp);
 
 //find average
 var total_exp=0;
 for(let amount of expenses){
     total_exp+=amount;
 }
-console.log(toal);
+var avr;
+console.log( avr=Math.floor(total_exp/expenses.length));
+//console.log(avr);
+
+
+//number of month expense exceeds 15000
+var a=0;
+// for(let amount of expenses){
+
+//     if(amount>15000){
+//         console.log(amount);// which are the expenses
+//         a+=1;
+//     }
+// }
+// console.log(a);//for count
+
+
+for(let amount of expenses){
+    a=amount>15000? (a+=1):a;
+}
+console.log(a);
 
