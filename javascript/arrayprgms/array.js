@@ -3,7 +3,7 @@
 //it is possible to store same and different type of data/object
 // size is not fixed
 //inseration order is preserved;
-// fetching array elements using its index
+// fetching array elements using its index (each element can be fetched seperatly with the help of index)
 //array index starting from 0th index
 //            0      1     2     3     4     5
 var expenses=[10000,20000,30000,12000,34000,450000];

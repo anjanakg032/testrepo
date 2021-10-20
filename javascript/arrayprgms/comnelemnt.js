@@ -17,6 +17,8 @@ console.log(count);
 // complexity is more here(time complexity is more)
 //space complexity
 
+//another iteration to reduce complexity
+
 arr1.sort((no1,no2)=>no1-no2)
 arr2.sort((no1,no2)=>no1-no2)
 
